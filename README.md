@@ -3,4 +3,4 @@
 Author: Yunpeng Xie
 
 
-Solving merge conflicts！
+Solving merge conflicts is easy!
